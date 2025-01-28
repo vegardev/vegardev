@@ -1,3 +1,13 @@
+```
+        _    .  ,   .           .
+    *  / \_ *  / \_      _  *        *   /\'__        *
+      /    \  /    \,   ((        .    _/  /  \  *'.
+ .   /\/\  /\/ :' __ \_  `          _^/  ^/    `--.
+    /    \/  \  _/  \-'\      *    /.' ^_   \_   .'\  *
+  /\  .-   `. \/     \ /==~=-=~=-=-;.  _/ \ -. `_/   \
+ /  `-.__ ^   / .-'.--\ =-=~_=-=~=^/  _ `--./ .-'  `-
+/        `.  / /       `.~-^=-=~=^=.-'      '-._ `._
+```
 hi,
 
 i want to build cool and innovative solutions based on ideas that are meaningful to me, while also making stuff that others find useful.
